@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 "# Brand-logo" 
 "# Brand-logo" 
 "# brand-logo" 
+"# brand-logo" 
